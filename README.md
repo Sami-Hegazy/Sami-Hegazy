@@ -10,10 +10,10 @@
 <p align="center">
 	
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&width=435&lines=Mobile+App" alt="Typing SVG" /></a>
+<br/>
 	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&width=435&lines=Flutter+Developer" alt="Typing SVG" /></a>
 </p>
 
-<br/>
 <br/>
 
 
