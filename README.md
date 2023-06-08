@@ -8,16 +8,15 @@
 </h1>
 
 <p align="center">
-	
+	 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&width=435&lines=Mobile+App" alt="Typing SVG" /></a>
 <br/>
 	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&width=435&lines=Flutter+Developer" alt="Typing SVG" /></a>
 </p>
 
-<br/>
 
 
- <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
  
 <h3>🚀 About Me</h3> 
 <h4> I'm Sami Hegazy from Egypt. I'm a Flutter Developer. I really enjoy learning Programming languages and frameworks. For This Moment I'm a fresh Flutter developer and learning increasingly to advance my career,I'm also interested in business intelligence and data analysis fields. </h4>
